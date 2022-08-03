@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sention
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning javascript.
 - 📫 How to reach me tdangelov@outlook.com / discord - sention#0286 
 
 <!---
